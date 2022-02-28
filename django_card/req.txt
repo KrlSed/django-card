@@ -1,0 +1,9 @@
+cryptography==36.0.1
+Django==4.0.2
+djangorestframework==3.13
+markdown==3.3.6
+django-filter==2.4.0
+drf-jwt==1.19.2
+PyJWT==2.3.0
+django-cors-headers==3.11.0
+requests==2.27.1

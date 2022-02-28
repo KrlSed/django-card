@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web:
+    build: .
+    command: python /django-card/django_card/manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/django_card/
+    ports:
+      - 8000:8000
