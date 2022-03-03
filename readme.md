@@ -6,7 +6,6 @@
 >
 > - Django 4.0.2
 > - Django Rest Framework 3.13
-> - Auth0
 > - Docker & Git
 > 
 
